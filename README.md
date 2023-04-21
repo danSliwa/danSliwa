@@ -8,7 +8,7 @@ After studying for 5 years at Silesian University of Technology and getting my m
 
 * 🌍  I'm based in Poland, Silesia
 * ✉️  You can contact me at [daniel.sliwa96@gmail.com](mailto:daniel.sliwa96@gmail.com)
-* 🧠  I'm learning Vue.js, Python
+* 🧠  I'm learning Vue.js, Python, Angular and Ionic
 * 🤝  I'm open to collaborating on developing applications that serve to detect cyberattacks.
 
 ### Skills
